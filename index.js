@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000; // Change this to your desired port number
+const port = 3000;
 
 const alunos = {
     "1": { nome: 'Eduardo', nota: [10, 9.6, 8] },
